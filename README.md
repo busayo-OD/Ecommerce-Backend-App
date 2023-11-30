@@ -11,5 +11,8 @@ The project is still at the development phase.
 - IDE: IntelliJ, Eclipse or Spring Tool Suite
 - Lombok
 
+## API Documentation
+https://shop-pulse.onrender.com/swagger-ui/# 
+
 ## How to start the app
-You should be able to start the application by executing com.busayo.ecommercebackend, which starts a webserver on port 8080 (http://localhost:8080). Also, the APIs can be viewed using the Swagger doc (http://localhost:8080/swagger-ui/#/) 
+You should be able to start the application by executing com.busayo.ecommercebackend, which starts a webserver on port 8081 (http://localhost:8081).
